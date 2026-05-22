@@ -4,11 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Society%20is%20the%20error%20i%20am%20just%20trying%20%20to%20debug%20it;One%20project%20at%20a%20time;Code%20Till%20I%20Die;Github%20is%20my%20Hacking%20buddy" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=om4r859">
-    <img src="https://komarev.com/ghpvc/?username=om4r8599&label=Profile%20views&color=00FFFF&style=flat-square" alt="om4r859's profile views" />
-  </a>
-</p>
+
+## 🌟 GitHub Stats
+![om4r859's GitHub stats](https://readme-two-sand.vercel.app/api?username=om4r859&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
+
 
 ## 🧠 My Focus Areas
 - Web Development (MERN Stacck)
