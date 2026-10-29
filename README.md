@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Om4r&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Tech%20Enthusiast%20&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Om4r&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Black hat%20&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Society%20is%20the%20error%20i%20am%20just%20trying%20%20to%20debug%20it;One%20project%20at%20a%20time;Code%20Till%20I%20Die;Github%20is%20my%20Hacking%20buddy" alt="Typing introduction" />
